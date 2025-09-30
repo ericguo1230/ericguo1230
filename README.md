@@ -16,4 +16,4 @@ Outside of tech, I'm a big **LeBron James** fan 🏀 — always inspired by his 
 ## 🌱 Currently Learning
 - Circuits and Operating Systems
 - Applied statistics for Machine Learning 
-- Systems for deploying ML at scale
+- LLM Tokenization
