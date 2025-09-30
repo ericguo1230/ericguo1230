@@ -11,7 +11,7 @@ Outside of tech, I'm a big **LeBron James** fan 🏀 — always inspired by his 
 - 📊 Machine Learning  
 - 💻 Software Engineering  
 - ☁️ Cloud & Scalable Systems
-- 🖥️ Leetcode :/
+- 🧩 Leetcode :/
 
 ## 🌱 Currently Learning
 - Circuits and Operating Systems
