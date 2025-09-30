@@ -8,10 +8,10 @@ Outside of tech, I'm a big **LeBron James** fan 🏀 — always inspired by his 
 ---
 
 ## 🔧 What I Do
-- 📊 Machine Learning  
-- 💻 Software Engineering  
+- 💻 Software Engineering
 - ☁️ Cloud & Scalable Systems
 - 🧩 Leetcode :/
+- 📊 Machine Learning  
 
 ## 🌱 Currently Learning
 - Circuits and Operating Systems
