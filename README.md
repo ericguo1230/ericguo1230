@@ -1,4 +1,4 @@
-# Hi there, I'm [Eric Guo]([https://your-portfolio-link.com](https://ericguo1230.github.io/erics-portfolio/)) 👋  
+# Hi there, I'm [Eric Guo](https://ericguo1230.github.io/erics-portfolio/) 👋  
 
 I'm a **Statistics and Computer Science** student at the **University of Toronto**.  
 Currently, I'm working at **RBC Borealis** as a **Machine Learning Software Engineer**, where I get to apply my skills in data, algorithms, and scalable software to real-world AI problems.  
