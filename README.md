@@ -18,12 +18,5 @@ Outside of tech, I'm a big **LeBron James** fan 🏀 — always inspired by his 
 - Applied statistics for Machine Learning 
 - Systems for deploying ML at scale
 
----
-
-## 📫 Connect with Me
-- LinkedIn: [linkedin.com/in/ericguo1230](https://linkedin.com/in/ericguo1230)  
-- Email: **ericc.guo@mail.utoronto.ca**  
-
----
 
 ⭐️ *Always learning, always building.*  
