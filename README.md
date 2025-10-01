@@ -1,7 +1,7 @@
 # Hi there, I'm [Eric Guo](https://ericguo1230.github.io/erics-portfolio/) 👋  
 
 I'm a **Statistics and Computer Science** student at the **University of Toronto**.  
-Currently, I'm working at **RBC Borealis** as a **Machine Learning Software Engineer**, where I get to apply my skills in data, algorithms, and scalable software to real-world AI problems. I've previously worked at **NOKIA** and **Luci.au**.
+Currently, I'm working at **RBC Borealis** as a **Machine Learning Software Engineer**, where I get to apply my skills in data, algorithms, and scalable software to real-world AI problems. I've previously worked at **NOKIA** and **Luci.ai**.
 
 Outside of tech, I'm a big **LeBron James** fan 🏀 — always inspired by his drive and dedication both on and off the court.  
 
