@@ -6,7 +6,7 @@ Currently, I'm working at **RBC Borealis** as a **Machine Learning Software Engi
 Outside of tech, I'm a big **LeBron James** fan 🏀 — always inspired by his drive and dedication both on and off the court.  
 
 ---
-[![Gmail Badge](https://img.shields.io/badge/-eric.guo1230@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:eric.guo1230@gmail.com)](mailto:eric.guo1230@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-EricGuo-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ericguo1230/)](https://www.linkedin.com/in/ericguo1230/)
+[![Gmail Badge](https://img.shields.io/badge/-eric.guo1230@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:eric.guo1230@gmail.com)](mailto:eric.guo1230@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ericguo1230/)](https://www.linkedin.com/in/ericguo1230/)
 
 ## 🔧 What I Do
 - 💻 Software Engineering
