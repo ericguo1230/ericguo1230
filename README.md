@@ -18,3 +18,5 @@ Outside of tech, I'm a big **LeBron James** fan 🏀 — always inspired by his 
 - Circuits and Operating Systems
 - Applied statistics for Machine Learning 
 - LLM Tokenization
+
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=ericguo1230)
